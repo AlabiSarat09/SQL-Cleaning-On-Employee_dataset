@@ -1,4 +1,4 @@
-# SQL-Cleaning-On-Employee_dataset
+# SQL-Cleaning-On-Employee_dataset.
 
 SELECT TOP (1000) [EmployeeID]
       ,[FirstName]
